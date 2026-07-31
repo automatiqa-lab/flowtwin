@@ -2,7 +2,7 @@
 
 Watch an operational process once and get editable process maps and runbooks back - adjustable, auditable, and cheap to regenerate when the process changes. The capture layer for the tribal knowledge that never made it into a document.
 
-Part of [Automatiqa Lab](https://www.automati.qa/flowtwin/) - open-source experiments where operations meet the algorithm.
+Part of [Automatiqa Lab](https://www.automatiqa.io/flowtwin/) - open-source experiments where operations meet the algorithm.
 
 ## The idea
 
@@ -12,7 +12,7 @@ FlowTwin observes a process a single time - a screen recording or a walkthrough 
 
 ## Status
 
-Work in progress, built in public. The build log and the thinking behind it live on [alxsidr.io](https://alxsidr.io). Project page: [automati.qa/flowtwin](https://www.automati.qa/flowtwin/).
+Work in progress, built in public. The build log and the thinking behind it live on [alxsidr.io](https://alxsidr.io). Project page: [automatiqa.io/flowtwin](https://www.automatiqa.io/flowtwin/).
 
 ## License
 
