@@ -12,7 +12,7 @@ FlowTwin observes a process a single time - a screen recording or a walkthrough 
 
 ## Status
 
-Work in progress, built in public. The build log and the thinking behind it live on [alxsidr.io](https://alxsidr.io). Project page: [automatiqa.io/flowtwin](https://www.automatiqa.io/flowtwin/).
+Work in progress, built in public. The build log and the thinking behind it live on [automatiqa.io/tag/build-log](https://www.automatiqa.io/tag/build-log/). Project page: [automatiqa.io/flowtwin](https://www.automatiqa.io/flowtwin/).
 
 ## License
 
