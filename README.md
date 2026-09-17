@@ -17,3 +17,5 @@ Work in progress, built in public. Project page: [automatiqa.io/flowtwin](https:
 ## License
 
 MIT.
+
+The argument these projects sit under: [The Intelligent Orchestration Manifesto](https://www.automatiqa.io/manifesto/).
