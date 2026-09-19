@@ -2,7 +2,7 @@
 
 Watch an operational process once and get editable process maps and runbooks back - adjustable, auditable, and cheap to regenerate when the process changes. The capture layer for the tribal knowledge that never made it into a document.
 
-Part of [Automatiqa Lab](https://www.automatiqa.io/flowtwin/) - open-source experiments where operations meet the algorithm.
+Part of [Automatiqa Lab](https://www.automatiqa.io) - open-source experiments where operations meet the algorithm.
 
 ## The idea
 
